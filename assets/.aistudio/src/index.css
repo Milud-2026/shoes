@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #FDFBF7;
+    color: #1A1A1A;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  }
+}
+
+.artistic-shadow {
+  box-shadow: 6px 6px 0px #1A1A1A;
+}
+
+.artistic-shadow-lg {
+  box-shadow: 8px 8px 0px #1A1A1A;
+}
+
+.artistic-shadow-orange {
+  box-shadow: 6px 6px 0px #FF3E00;
+}
+
+.artistic-shadow-cyan {
+  box-shadow: 6px 6px 0px #00F0FF;
+}
+
+.skew-artistic {
+  transform: skewX(-12deg);
+}
+
+.unskew-artistic {
+  transform: skewX(12deg);
+}
