@@ -1,0 +1,6 @@
+{
+  "name": "SoleVault - Exclusive Footwear & Sneakers",
+  "description": "Exclusive e-commerce platform for premium sneakers featuring Nike, Jordan, Adidas, Salomon, New Balance, catalog filters, shopping cart, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
